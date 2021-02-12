@@ -214,7 +214,7 @@ These projects are examples of specific *use cases* within the ImageJ API.
 
 ### Working with user input
 
--   [Look at all the widgets!](https://github.com/imagej/tutorials/tree/master/maven-projects/widget-demo/src/main/java)
+-   [Look at all the widgets!](https://github.com/imagej/tutorials/blob/master/howtos/src/main/java/howto/ui/WidgetDemo.java)
 -   [Previewable commands](https://github.com/imagej/tutorials/tree/master/maven-projects/commands-with-preview/src/main/java)
 
 ### Plugin development
